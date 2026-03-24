@@ -2,7 +2,7 @@
 
 def f(x):
     # Aqui definimos a função da Questão 4
-    return x**3 + 4 * x**2 - 10
+    return x**3  - 7 * x**2 + 14 * x - 6
 
 def bissecao(a, b, tolerancia):
     # Passo 1: Verificar se existe raiz no intervalo (Teorema de Bolzano)
